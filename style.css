@@ -9,7 +9,7 @@ body {
 
 .search-bar-container {
   display: flex;
-  align-items: center;
+  align-items: rig;
   background-color: aliceblue;
   padding: 5px;
   width: 300px;
